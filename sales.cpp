@@ -1,8 +1,5 @@
 // Author:     Trishal Varma
-// Course:     CS 1336.501
-// Date:       03/27/2017
-// Assignment: Lecture Homework #5 Exercise #2
-// Compiler:   Xcode
+// Date:       03/27/2019
 
 // Write a program that asks the user to enter today's sales for five stores.
 // Then should create a bar graph of each store's sales by displaying a row of astericks that represent $100.

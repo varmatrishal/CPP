@@ -1,9 +1,5 @@
 // Author:     Trishal Varma
-// Course:     CS 1336.501
-// Date:       03/27/2017
-// Assignment: Lecture Homework #5 Exercise #1
-// Compiler:   Xcode
-
+// Date:       03/27/2019
 // Creating iteration and loop.
 
 #include <iostream>

@@ -1,6 +1,4 @@
-//  Lab 7 Exercise 1
-//
-//  Program by: Trishal Varma on 3/31/17.
+//  Program by: Trishal Varma on 3/31/20.
 //
 // Xcode
 

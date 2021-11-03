@@ -1,11 +1,8 @@
-// Lab 7 Exercise 2
-//
-//
 //Percentages of numbers input from a file
 //
 //
 //Program by: Trishal Varma
-// xcode
+
 
 #include <iomanip> 
 #include <fstream>

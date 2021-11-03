@@ -1,6 +1,5 @@
-// Lab 9 Exercise 3
 // Currency conversions
-// Date: 04/14/17
+// Date: 04/14/19
 // Program by: Trishal Varma
 
 
