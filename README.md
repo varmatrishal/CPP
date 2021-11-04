@@ -3,7 +3,7 @@
 
 `These are early practice work I completed for educational purposes`
 
-###**File contains**
+**File contains**
 
 1. readInput
   > getscore.cpp
